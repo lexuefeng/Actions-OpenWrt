@@ -1,4 +1,3 @@
-
 name: Build X86_64 Version OpenWrt
 
 on:
