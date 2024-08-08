@@ -1,4 +1,4 @@
-name: X86_64 OpenWrt
+name: OpenWrt X86_64
 
 on:
   repository_dispatch:
